@@ -3,6 +3,8 @@
 This project implements a **multimodal fake news detection system** that combines **textual (BERT)** and **visual (ResNet)** features to classify news posts as **fake** or **real**.  
 We use the **Weibo dataset** (Chinese social media) containing posts with both text and images.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alvira-Parveen/multimodal-fake-news-/blob/main/fake_news_multimodal.ipynb)
+
 ---
 
 ## 🚀 Features
