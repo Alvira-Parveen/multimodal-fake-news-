@@ -34,7 +34,9 @@ weibo/
 ---
 
 ## ⚙️ Installation
+
 Clone repo and install dependencies:
+
 ```bash
 git clone https://github.com/<your-username>/multimodal-fake-news.git
 cd multimodal-fake-news
@@ -42,16 +44,16 @@ pip install -r requirements.txt
 
 ---
 
-## Training
+🏋️ Training
 
 Run the Colab notebook: fake_news_multimodal.ipynb
 
-Steps:-
-1. Mount dataset (Weibo.zip) from Google Drive.
-2. Extract text + image links.
-3. Download images.
-4. Train BERT + ResNet fusion model.
-5. Evaluate on validation set.
+Steps:
+	1.	Mount dataset (Weibo.zip) from Google Drive.
+	2.	Extract text + image links.
+	3.	Download images.
+	4.	Train BERT + ResNet fusion model.
+	5.	Evaluate on validation set.
 
 ---
 
