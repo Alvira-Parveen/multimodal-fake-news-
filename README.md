@@ -42,10 +42,9 @@ pip install -r requirements.txt
 
 ---
 
+## Training
 
-## 🖥️ Training
-
-Run the Colab notebook:fake_news_multimodal.ipynb
+Run the Colab notebook: fake_news_multimodal.ipynb
 
 Steps:-
 1. Mount dataset (Weibo.zip) from Google Drive.
@@ -57,6 +56,7 @@ Steps:-
 ---
 
 ## 📊 Results
+
 | Metric   | Score |
 | -------- | ----- |
 | Accuracy | 93.1% |
@@ -67,7 +67,8 @@ Steps:-
 
 ---
 
-##📌 Future Improvements
+## 📌 Future Improvements
+
 - Try Vision Transformers (ViT) instead of ResNet.
 - Use multilingual BERT for broader datasets.
 - Explore larger datasets (e.g., GossipCop, PolitiFact).
@@ -75,8 +76,8 @@ Steps:-
 
 ---
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
-**Name**  : ALVIRA PARVEEN  
+**Name**: ALVIRA PARVEEN  
 🔗 [LinkedIn](https://www.linkedin.com/in/alvira-parveen-78022536b)  
 🌐 [GitHub](https://github.com/Alvira-Parveen)
