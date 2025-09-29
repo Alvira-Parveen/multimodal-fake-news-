@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ---
 
 
-🖥️ Training
+## 🖥️ Training
 
 Run the Colab notebook:fake_news_multimodal.ipynb
 
@@ -52,9 +52,9 @@ Steps:-
 4. Train BERT + ResNet fusion model.
 5. Evaluate on validation set.
 
+---
 
-
-📊 Results
+## 📊 Results
 | Metric   | Score |
 | -------- | ----- |
 | Accuracy | 93.1% |
@@ -65,14 +65,15 @@ Steps:-
 
 ---
 
-📌 Future Improvements
+##📌 Future Improvements
 - Try Vision Transformers (ViT) instead of ResNet.
 - Use multilingual BERT for broader datasets.
 - Explore larger datasets (e.g., GossipCop, PolitiFact).
 - Add data augmentation for better generalization.
 
+---
 
-## 👩‍💻 Author
+##👩‍💻 Author
 
 **Name**  : ALVIRA PARVEEN  
 🔗 [LinkedIn](https://www.linkedin.com/in/alvira-parveen-78022536b)  
