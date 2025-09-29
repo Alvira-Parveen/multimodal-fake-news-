@@ -37,14 +37,13 @@ weibo/
 
 Clone repo and install dependencies:
 
-```bash
 git clone https://github.com/<your-username>/multimodal-fake-news.git
 cd multimodal-fake-news
 pip install -r requirements.txt
 
 ---
 
-🏋️ Training
+## Training
 
 Run the Colab notebook: fake_news_multimodal.ipynb
 
